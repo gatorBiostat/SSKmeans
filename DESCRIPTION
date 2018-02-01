@@ -1,0 +1,11 @@
+Package: SSKmeans
+Title: Smoothed Sparse Kmeans
+Version: 0.0.0.9000
+Authors@R: c(person("Zhiguang", "Huo", email = "zhuo@ufl.edu", role = c("aut", "cre")),  person("Chen", "Yeh", email = "jane820909@ufl.edu", role = c("aut")))
+Description: Smoothed Sparse Kmeans for clustering in neuroimaging data.
+Depends: R (>= 3.0.0)
+License: GPL-2
+LazyLoad: yes
+LazyData: true
+Encoding: UTF-8
+RoxygenNote: 6.0.1
